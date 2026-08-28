@@ -11,9 +11,9 @@ At the moment, `spb` supports the compilation of `.ts`, `.css`, `.scss`, `.js`, 
 ## Structure
 SPB is split into 4 different projects:
 
-- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb-core.svg)](https://badge.fury.io/js/%40puresamari%2Fspb-core) | [core](https://github.com/puresamari/spb-core)  containing all bundling functionallity.
-- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb-dev-server.svg)](https://badge.fury.io/js/%40puresamari%2Fspb-dev-server) | [dev-server](https://github.com/puresamari/spb-dev-server)  a webserver with hot reload functionallity for an easier development process.
-- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb.svg)](https://badge.fury.io/js/%40puresamari%2Fspb) | [CLI](https://github.com/puresamari/spb) the command line interface for SPB.
+- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb-core.svg)](https://badge.fury.io/js/%40puresamari%2Fspb-core) | [core](https://github.com/silurt/spb-core)  containing all bundling functionallity.
+- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb-dev-server.svg)](https://badge.fury.io/js/%40puresamari%2Fspb-dev-server) | [dev-server](https://github.com/silurt/spb-dev-server)  a webserver with hot reload functionallity for an easier development process.
+- [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb.svg)](https://badge.fury.io/js/%40puresamari%2Fspb) | [CLI](https://github.com/silurt/spb) the command line interface for SPB.
 - APP (Coming soon)
 
 ## Examples
@@ -204,4 +204,4 @@ html
 
 # Links
 
-- [Changelog](https://github.com/puresamari/spb/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/silurt/spb/blob/master/CHANGELOG.md)

@@ -41,9 +41,9 @@
   ],
   "author": "Simon Rothert <puresamari@gmail.com>",
   "bugs": {
-    "url": "https://github.com/puresamari/spb/issues"
+    "url": "https://github.com/silurt/spb/issues"
   },
-  "homepage": "https://github.com/puresamari/spb#readme",
+  "homepage": "https://github.com/silurt/spb#readme",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/cli-progress": "^3.7.0",
